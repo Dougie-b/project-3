@@ -15,7 +15,7 @@ https://new-esperanto.herokuapp.com/
 
 **Server:** Node.js, Express, Mongoose, MongoDB, Bcrypt, JsonWebToken
 
-**Developlemt Tools:** Visual Studio Code, Insomnia, Yarn, Git & GitHub, Google Chrome dev tools, Cloudinary, Asana, Canva, Zoom, Slack, Heroku
+**Development Tools:** Visual Studio Code, Insomnia, Yarn, Git & GitHub, Google Chrome dev tools, Cloudinary, Asana, Canva, Zoom, Slack, Heroku
 
 
 ## Planning
@@ -112,7 +112,7 @@ It also was useful in terms of making the website responsive and still looking s
 I was extremely pleased with how the site came out looking, all the team has Ali to thank for his excellent sense of styling.
 ## Post Project Thoughts
 
-This was the first time I built a Back-End so we didn't want to make it too complex, kept it fairly simple and very useable. It was done within the first couple of days which put us nicely ahead of schedule. Next project I think I'll push myself in terms of making a more complex database and using more relationship types.
+This was the first time I built a Back-End so we didn't want to make it too complex, kept it fairly simple and very usable. It was done within the first couple of days which put us nicely ahead of schedule. Next project I think I'll push myself in terms of making a more complex database and using more relationship types.
 
 We really had to learn to communicate effectively what we were each working on and when to do our merges to avoid having any conflicts. Merge parties are the way forward!
 
