@@ -13,7 +13,7 @@ https://new-esperanto.herokuapp.com/
 
 **Client:** React, Axios, Bootstrap, SCSS, CSS 
 
-**Server:** Node.js, Express, Mongoose, MongoDB, Bcrypt, JsonWebToken
+**Server:** Node.js, Express, Mongoose, MongoDB, Bcrypt, JSON Web Token
 
 **Development Tools:** Visual Studio Code, Insomnia, Yarn, Git & GitHub, Google Chrome dev tools, Cloudinary, Asana, Canva, Zoom, Slack, Heroku
 
@@ -71,7 +71,7 @@ Then we determined which routes would require authentication and if so, also a s
 First we created a React app and hooked it up to our database and created various component pages we had planned to include and divided up the pages among us, however we all ended up assisting with each other as individuals had their strengths, so we used them!
 
 **Home Page** 
-As well as the standard information displayed on the home page I made a function that I was proud of & amused by that would use state combined with a Get request to count the total number of languages taught on our website and display that value on the Home Page and it would automatically update if there was a new language added!
+As well as the standard information displayed on the home page I made a function that I was proud of & amused by that would use state combined with a Get request to count the total number of languages taught on our website and display that value on the Home Page.
 
 ![Language counter](https://i.postimg.cc/hGjFvr4m/countlanguages1.png)
 
@@ -110,12 +110,17 @@ In this project we used some Bootstrap elements to help us achieve a certain pro
 It also was useful in terms of making the website responsive and still looking sweet on a mobile. 
 
 I was extremely pleased with how the site came out looking, all the team has Ali to thank for his excellent sense of styling.
-## Post Project Thoughts
+
+## Challenges
 
 This was the first time I built a Back-End so we didn't want to make it too complex, kept it fairly simple and very usable. It was done within the first couple of days which put us nicely ahead of schedule. Next project I think I'll push myself in terms of making a more complex database and using more relationship types.
+
+## Wins
+
+Honestly I'm super stoked about how it turned out, our very first full stack web app and it looked and behaved exactly how we'd initially planned it to. Great success!
+
+## Key Learnings
 
 We really had to learn to communicate effectively what we were each working on and when to do our merges to avoid having any conflicts. Merge parties are the way forward!
 
 Much much googling! Had to really dig into various documentation to learn and apply new concepts that made our lives easier. Some people write really really bad documentation :(
-
-Honestly I'm super stoked about how it turned out, our very first full stack web app and it looked and behaved exactly how we'd initially planned it to. Great success!
